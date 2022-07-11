@@ -1,0 +1,33 @@
+body{
+	background-color: lavender;
+}
+
+
+h1{
+font-size:  30px;
+color: darksalmon;
+}
+
+h2{
+font-size: 18px;
+color:  royalblue;
+}
+h2{
+color: greenyellow;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: moccasin;
+}
+
+h1 span{
+color: violet;
+}
