@@ -1,0 +1,125 @@
+
+
+body{
+	max-width: 1000px;
+	margin: 0 auto;
+	font-family: Futura ,Work Sans, Open Sans, sans-serif;
+	color: purple;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header{
+	background-color: lightpink;
+
+
+text-align: center;
+width: 100%;
+height: 100%;
+border-radius: 5px;
+padding: 10px;
+ }
+
+header img{
+	width: 75px;
+	height: 75px;
+}
+
+nav ul {
+	padding: 10;
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	text-align: center;
+}
+
+h1,h2{
+	font-family: oleo script;
+	text-align: center;
+
+
+}
+
+div {
+	font-size: 13px;
+	color: floralwhite;
+	text-align: center;
+	padding: 10px;
+	width: 100%;
+	border-radius: 5px;
+
+
+	
+}
+
+.new{
+		background-color: green;
+		
+		
+	}
+
+main{
+	width: 100%;
+	background-color: lightpink;
+	text-align: left;
+	padding: 10px;
+	border-radius: 5px;
+
+
+}
+
+section{	
+	width: 100%;
+	background-color: lightpink;
+	text-align: left;
+	padding: 10px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+section img{
+	width: 50px;
+	height: 100%;
+}
+
+main img{
+	max-width: 100%;
+	height: 100%;
+	padding: 0;}
+
+
+table th{
+	padding: 10px;
+}
+
+table img{
+	max-width: 400px;
+	height: 100%;
+	border-radius: 5px;
+	padding: 0;
+
+}
+.bigimage{
+	width: 100%;
+	height: 100%;
+	}
+
+a{
+	color: purple;
+}
+a:hover{
+	color: whitesmoke;
+	background-color: purple;
+}
+
+p.caption{
+	font-size: 14px;
+	font-style: italic;
+}
+
+Footer{
+	text-align: center;
+}
